@@ -1,0 +1,44 @@
+.centers{
+   position: relative;
+   
+}
+#s{
+    display: inline-block;
+    background-color: gray;
+}
+.center{
+    -moz-box-align: center;
+    position: absolute;
+    margin-top:50px;
+        margin-left: 400px;
+        border: 1px solid black;
+        padding: 50px;
+    
+}
+.xyz{
+    position:absolute;
+    top:10px;
+    font-size: 30px;
+}
+.abc{
+    margin-top: 5px;
+}
+.b{
+    text-align: center;
+    background-color: rgb(47, 252, 255);
+    width:300px;
+}
+.a{
+    background-color: rgba(128, 128, 128, 0.819);
+    width:300px;
+}
+.centered{
+    margin-left: 500px;
+    -moz-box-align: center;
+    position: absolute;
+    margin-top:50px;
+       
+        border: 1px solid black;
+        padding: 70px;
+    
+}
